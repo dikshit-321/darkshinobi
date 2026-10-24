@@ -1,7 +1,6 @@
 https://a-hai-mera-project-default-rtdb.firebaseio.com
 https://offline-f65fe-default-rtdb.firebaseio.com
 https://roit-c5caa-default-rtdb.firebaseio.com
-https://nyawala-3e7c3-default-rtdb.asia-southeast1.firebasedatabase.app
 https://lol38-81862-default-rtdb.firebaseio.com
 https://ne-2db23-default-rtdb.asia-southeast1.firebasedatabase.app
 https://anand-38af3-default-rtdb.firebaseio.com
@@ -270,13 +269,10 @@ https://bosobeta-default-rtdb.asia-southeast1.firebasedatabase.app
 https://nandan-rto-default-rtdb.firebaseio.com
 https://bharwa-5fa4b-default-rtdb.firebaseio.com
 https://vicky-singh-20bdd-default-rtdb.firebaseio.com
-https://newadmin-d5116-default-rtdb.firebaseio.com
 https://ritusingh-682d8-default-rtdb.firebaseio.com
 https://admin-pandit-default-rtdb.firebaseio.com
 https://worlarrxberlin-default-rtdb.firebaseio.com
-https://pagal-8c47e-default-rtdb.firebaseio.com
 https://sabhojayega-e0558-default-rtdb.firebaseio.com
-https://icici-kolkata-apcd001-default-rtdb.firebaseio.com
 https://tokyo-e32fb-default-rtdb.firebaseio.com
 https://hospital-15no-8augu-default-rtdb.firebaseio.com
 https://btxmob-6f66f-default-rtdb.firebaseio.com
@@ -285,7 +281,3 @@ https://fecbook-e9efc-default-rtdb.firebaseio.com
 https://ram-yejdh-default-rtdb.firebaseio.com
 https://ghpiii-default-rtdb.firebaseio.com
 https://nmpanagr-default-rtdb.firebaseio.com
-https://vuvhbjbi-default-rtdb.firebaseio.com
-https://a-comp-hdfc-apcd006-default-rtdb.firebaseio.com
-https://munnnntt-default-rtdb.firebaseio.com
-https://dhoni26-default-rtdb.firebaseio.com
